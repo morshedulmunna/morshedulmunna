@@ -4,7 +4,7 @@
 
 A self-motivated and enthusiastic web developer with a deep interest in JavaScript, Python & Data Science. To work in the Software industry with modern technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities.
 
-Skills: C++/ Javascript/ pythong / React.js/ Node.js/ React Native
+Skills: C++/ Javascript/ Python / React.js/ Node.js/ React Native
 
 - 🌱 I’m currently learning JavaScript & ompetitive programming 
 
