@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is morshedul munna
 #### JavaScript Developer | React.js | Node.js || MERN Stack Developer & Competitive Programmer.
-![JavaScript Developer | React.js | Node.js || MERN Stack Developer & Competitive Programmer.](https://i.ibb.co/gycry3B/Screenshot-2.png)
 
 A self-motivated and enthusiastic web developer with a deep interest in JavaScript, Python & Data Science. To work in the Software industry with modern technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities.
 
