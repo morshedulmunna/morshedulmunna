@@ -15,4 +15,3 @@ Skills: C++/ Javascript/ Python / React.js/ Node.js/ React Native
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morshedulmunna)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=morshedulmunna)  
