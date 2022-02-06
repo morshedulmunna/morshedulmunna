@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Frontend Web Development!
 - 🌱 I’m currently learning everything.
-- 🥅 2022 Goals: Learn React, React Native, Node, MongoDB.
+- 🥅 2022 Goals: Learn React, React Native, Node, MongoDB. 🚀 Python, Problem Solving 
 - 👯 I’m looking to collaborate on creating content!
 - 🚀 Fun fact: I love to Explore the world!
 
