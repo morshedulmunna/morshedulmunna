@@ -14,6 +14,12 @@
 To pursue a challenging job in a dynamic and esteemed organization, where I will be able to perform in any kind of situation with full effort to utilize my
 knowledge, skill, and experience for professional career development.
 
+
+### Educational Qualification :
+>#### Bachelor of Computer Science Engineering
+>Bangladesh University of Business and Technology (BUBT)
+Department of Computer Science Engineering(CSE)
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
