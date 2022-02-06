@@ -62,4 +62,4 @@ knowledge, skill, and experience for professional career development.
 [resume]: https://www.linkedin.com/in/morshedulmunna/
 [medium]: https://www.quora.com/profile/Morshedul-Munna
 [youtube]: https://www.youtube.com/channel/UCCwRAqBwssrPj-1mcZA7KsQ
-[twitter]: twitter.com/morshedulmunna
+[twitter]: https://twitter.com/morshedulmunna
