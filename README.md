@@ -14,6 +14,10 @@
 To pursue a challenging job in a dynamic and esteemed organization, where I will be able to perform in any kind of situation with full effort to utilize my
 knowledge, skill, and experience for professional career development.
 
+### Professional Qualification :
+>#### Programming-Hero| Programming Course
+>Web Design Development Online Course | Instructor By Jhankar Mahbub
+Duration: 2 year ( July 2020 to December 2022 )
 
 ### Educational Qualification :
 >#### Bachelor of Computer Science Engineering
