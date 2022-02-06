@@ -16,12 +16,12 @@ knowledge, skill, and experience for professional career development.
 
 ### Professional Qualification :
 >#### Programming-Hero| Programming Course
->Web Design Development Online Course | Instructor By Jhankar Mahbub
+>Web Design Development Online Course </br> | Instructor By Jhankar Mahbub
 Duration: 2 year ( July 2020 to December 2022 )
 
 ### Educational Qualification :
 >#### Bachelor of Computer Science Engineering
->Bangladesh University of Business and Technology (BUBT)
+>Bangladesh University of Business and Technology (BUBT) </br>
 Department of Computer Science Engineering(CSE)
 
 ### Connect with me:
