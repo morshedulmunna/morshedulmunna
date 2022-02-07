@@ -42,8 +42,8 @@ Department of Computer Science Engineering(CSE)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)][medium]
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/edit/13958792)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook]
-[![Youtube subscribe](https://img.shields.io:/youtube/channel/subscribers/UCCwRAqBwssrPj-1mcZA7KsQ?style=social)][youtube]
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=instagram&logoColor=9E32AD)][instagram]
+[![Youtube subscribe](https://img.shields.io:/youtube/channel/subscribers/UCCwRAqBwssrPj-1mcZA7KsQ?style=social)][youtube]
 [![Twitter](https://img.shields.io:/twitter/follow/morshedulmunna?style=social)][twitter]
 
 ### Languages and Tools:
