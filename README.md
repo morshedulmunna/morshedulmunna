@@ -24,6 +24,17 @@ Duration: 2 year ( July 2020 to December 2022 )
 >Bangladesh University of Business and Technology (BUBT) </br>
 Department of Computer Science Engineering(CSE)
 
+ ---
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
+</p>
+
+### 🏆 Github Stats
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=morshedulmunna&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=morshedulmunna&theme=dark&show_icons=true&hide_border=true" width="48%" >
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
@@ -53,14 +64,6 @@ Department of Computer Science Engineering(CSE)
 <br/>
 <br/>
 <br/>
-
- ---
-<h2 align="center">Visitor Count</h2>
-<p align="center">
-  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
-</p>
-
-### 🏆 Github Stats
 
 
 
