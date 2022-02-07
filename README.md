@@ -59,6 +59,9 @@ Department of Computer Science Engineering(CSE)
 [<img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/fqbTYyf/pngkit-ifunny-watermark-png-2254691.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/f13T02P/pngkey-com-github-icon-png-1787508.png" />][github]
+[<img align="left" alt="C++" width="26px" src="https://i.ibb.co/Vj53Hgp/pngegg.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://i.ibb.co/qrmbLns/5848152fcef1014c0b5e4967.png" />][github]
+
 
 
 <br/>
