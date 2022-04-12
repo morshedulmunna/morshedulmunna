@@ -30,10 +30,19 @@ Department of Computer Science Engineering(CSE)
   <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
 </p>
 
-### 🏆 Github Stats
+<p align="center">
+   <table>
+   <h1 align="center">🏆 Github Stats</h1>
+       <tr>
+       <td><img alt="morshedulmunna :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=morshedulmunna&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="morshedulmunna :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morshedulmunna&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=morshedulmunna&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=morshedulmunna&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=morshedulmunna&theme=dark&show_icons=true&hide_border=true" width="48%" >
 
 ### Connect with me:
 
