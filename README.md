@@ -84,7 +84,7 @@ Department of Computer Science Engineering(CSE)
 [linkedin]: https://www.linkedin.com/in/morshedulmunna/
 [github]: https://github.com/morshedulmunna
 [facebook]: https://www.facebook.com/morshedulmunna.script
-[resume]: https://docs.google.com/document/d/141DI-KFmgCFKJRvoPaT-VGQ3HkJRQQSJ-BHzFx4Y1Do
+[resume]: https://drive.google.com/file/d/1fNzzkn9FAGy7MV4ZAbQ7qOg0bfL9vpG2
 [medium]: https://www.quora.com/profile/Morshedul-Munna
 [youtube]: https://www.youtube.com/channel/UCCwRAqBwssrPj-1mcZA7KsQ
 [twitter]: https://twitter.com/morshedulmunna
