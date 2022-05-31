@@ -1,4 +1,4 @@
-### Hey, This is [Morshedul Munna] 👋 [![Drive Resume](https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5/)][resume]
+### Hey, This is [Morshedul Munna] 👋 [Drive Resume](https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5/)
 
 ## I'm ready to Work as a Frontend Web Developer!
 
