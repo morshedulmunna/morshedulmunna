@@ -1,4 +1,4 @@
-### Hey, This is [Morshedul Munna][website] 👋 [![Drive Resume](https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5/)][resume]
+### Hey, This is [Morshedul Munna] 👋 [![Drive Resume](https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5/)][resume]
 
 ## I'm ready to Work as a Frontend Web Developer!
 
@@ -62,12 +62,8 @@
 <br/>
 
 
-
-[website]: https://morshedulmunna.netlify.app/
-[instagram]: https://www.instagram.com/morshedul.munna/
 [linkedin]: https://www.linkedin.com/in/morshedulmunna/
 [github]: https://github.com/morshedulmunna
-[facebook]: https://www.facebook.com/morshedulmunna.script
 [resume]: https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5
 [medium]: https://www.quora.com/profile/Morshedul-Munna
 [youtube]: https://www.youtube.com/channel/UCCwRAqBwssrPj-1mcZA7KsQ
