@@ -1,6 +1,6 @@
 ### Hey, This is [Morshedul Munna][website] 👋 [![Drive Resume](https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5/)][resume]
 
-## I'm Frontend || MERN Stack Developer!
+## I'm ready to Work as a Frontend Web Developer!
 
 - 🔭 I’m currently working on Frontend Web Development!
 - 🌱 I’m currently learning Competitive Programming........
@@ -8,23 +8,7 @@
 - 👯 I’m looking to collaborate on creating content!
 - 🚀 Fun fact: I love to Explore the world!
 
-### Career Objective :
-
-> I am an enthusiastic and dedicated learner. with a deep interest in JavaScript. To work in the Software industry with modern web technologies web 3.0 and
-To pursue a challenging job in a dynamic and esteemed organization, where I will be able to perform in any kind of situation with full effort to utilize my
-knowledge, skill, and experience for professional career development.
-
-### Professional Qualification :
->#### Programming-Hero| Programming Course
->Web Design Development Online Course </br> | Instructor By Jhankar Mahbub
-Duration: 2 year ( July 2020 to December 2022 )
-
-### Educational Qualification :
->#### Bachelor of Computer Science Engineering
->Bangladesh University of Business and Technology (BUBT) </br>
-Department of Computer Science Engineering(CSE)
-
- ---
+ ---------------------------------------------
 <h2 align="center">Visitor Count</h2>
 <p align="center">
   <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
