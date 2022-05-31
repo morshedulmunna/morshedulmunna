@@ -9,7 +9,7 @@
 - 🚀 Fun fact: I love to Explore the world!
 
  ---------------------------------------------
-<h2 align="center">Visitor Count</h2>
+<h2 align="center">Github Visited Count</h2>
 <p align="center">
   <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
 </p>
