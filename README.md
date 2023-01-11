@@ -1,16 +1,3 @@
-### Hey, This is [Morshedul Munna] 👋 [Drive Resume](https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5/)
-
-## I'm ready to Work as a Frontend Web Developer!
-
-- 🔭 I’m currently working on Frontend Web Development!
-- 🌱 I’m currently learning Competitive Programming........
-- 🥅 2022 Goals: Learn React, React Native, Node, MongoDB. 🚀 Python, Problem Solving 
-- 👯 I’m looking to collaborate on creating content!
-- 🚀 Fun fact: I love to Explore the world!
-
- ---------------------------------------------
-
-
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
