@@ -1,3 +1,13 @@
+
+### 🚀 About Me
+---
+As a software engineer, I am like an architect who designs and builds digital structures using JavaScript · TypeScript · Node.js · Express.js · Prisma · Nest.js · Tailwind CSS · WebSocket · JSON Web Token (JWT) · Redux · NestJS · PostgreSQL · REST APIs  · React.js.
+I use my knowledge and expertise to create modern applications that are both efficient and elegant. 
+
+My passion for technology drives me to continually learn and stay up-to-date with the latest industry trends. I approach every project with a critical and creative mindset, analyzing problems and finding innovative solutions. 
+
+Overall, I am a skilled and versatile engineer who takes pride in producing high-quality work and helping businesses succeed in the digital world.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morshedulmunna&layout=compact)
 
 ### Connect with me:
