@@ -1,3 +1,6 @@
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morshedulmunna&layout=compact)
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
@@ -29,7 +32,7 @@
 
 [linkedin]: https://www.linkedin.com/in/morshedulmunna/
 [github]: https://github.com/morshedulmunna
-[resume]: https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5
+[resume]: https://drive.google.com/file/d/1FAhfRBTKQbM5Bu7fOg4YjT0YzXOO8zII
 [medium]: https://www.quora.com/profile/Morshedul-Munna
 [youtube]: https://www.youtube.com/channel/UCCwRAqBwssrPj-1mcZA7KsQ
 [twitter]: https://twitter.com/morshedulmunna
