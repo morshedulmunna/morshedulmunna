@@ -1,6 +1,4 @@
-
-### 🚀 About Me
----
+## Hi I'm Morshedul Munna <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 As a software engineer, I am like an architect who designs and builds digital structures using JavaScript · TypeScript · Node.js · Express.js · Prisma · Nest.js · Tailwind CSS · WebSocket · JSON Web Token (JWT) · Redux · NestJS · PostgreSQL · REST APIs  · React.js.
 I use my knowledge and expertise to create modern applications that are both efficient and elegant. 
 
