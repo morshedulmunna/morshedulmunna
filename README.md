@@ -6,7 +6,7 @@ My passion for technology drives me to continually learn and stay up-to-date wit
 
 Overall, I am a skilled and versatile engineer who takes pride in producing high-quality work and helping businesses succeed in the digital world.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morshedulmunna&layout=compact)
+
 
 ### Connect with me:
 
