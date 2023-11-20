@@ -5,7 +5,7 @@ My passion for technology drives me to continually learn and stay up-to-date wit
 
 Overall, I am a skilled and versatile engineer who takes pride in producing high-quality work and helping businesses succeed in the digital world.
 ###  Programming Skills
-- Languages: JavaScript, TypeScript, Python, C/C++
+- Languages: JavaScript, TypeScript, NodeJs, Python, C/C++
 - Frameworks: ReactJS, NextJS, TailwindCSS, Redux, React Hook From, | ExpressJS, NestJS, Prisma
 - Database: MongoDB, PostgreSQL, MySQL
 - Tools: Git, GitHub, Open Api 3.0.0, swagger, Docker
