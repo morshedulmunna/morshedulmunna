@@ -14,7 +14,13 @@ I approach every project with a critical and creative mindset, analyzing problem
 
 **🤝 I’m looking** - To collaborate on open-source projects.
 
-**🧣 I’m currently** - **_Mastering_** JavaScript, Typescript, NodeJs, NestJs || NextJs, Tailwind
+**🧣 I’m currently ready to work ->**
+
+-   **Languages:** JavaScript, TypeScript, NodeJs, C/C++
+-   **Frameworks:** ReactJS, NextJS, TailwindCSS, Redux, React Hook From, | ExpressJS, NestJS, Prisma, Jest
+-   **Database:** MongoDB, PostgreSQL, MySQL, Radis
+-   **Tools:** Git, GitHub, Open Api 3.0.0, swagger, REST-API, Docker
+-   **Familiar:** socket.io, graphql
 
 ### Reach Me Out
 
