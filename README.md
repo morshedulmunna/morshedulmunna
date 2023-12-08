@@ -11,7 +11,9 @@ I approach every project with a critical and creative mindset, analyzing problem
 #### 💤 Fun fact 💤 - Problem Solving & Contest.....
 
 **🥅 Goals of 2024** - **_microservice_** Go, GraphQL, Docker, AWS, Advance Networking. Database <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
 **🤝 I’m looking** - To collaborate on open-source projects.
+
 **🧣 I’m currently** - **_Mastering_** JavaScript, Typescript, NodeJs, NestJs || NextJs, Tailwind
 
 ### Reach Me Out
