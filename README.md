@@ -10,7 +10,7 @@ I approach every project with a critical and creative mindset, analyzing problem
 
 #### 💤 Fun fact 💤 - Problem Solving & Contest.....
 
-**🥅 Goals of 2025 🥅** - **_Microservices Architecture, Go, GraphQL, Docker, AWS, Core Networking. Core Database_** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+**🥅 Goals of 2025 🥅** - **_Microservices Architecture, Golang, gRPC, GraphQL, Redis, NATS, rabbitmq, kafka, Docker, kubernetes, AWS, Core Networking. Core Database_** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 **🤝 I’m looking** - To collaborate on open-source projects.
 
