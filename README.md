@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&random=false&width=850&lines=Morshedul+Islam+Munna;Software+Engineer;%F0%9F%92%A4+Fun+fact+%F0%9F%92%A4+Problem+Solver)](https://git.io/typing-svg)
 <img src="/cover.png"/></a>
 
-## About Me || [RESUME][resume]
+
 
 Self-motivated software engineer, I am like an architect who designs and Develop digital Product with a strong passion for continuous learning and staying up-to-date with the latest industry trends and technologies.
 I approach every project with a critical and creative mindset, analyzing problems and finding innovative solutions.
