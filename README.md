@@ -6,42 +6,37 @@
 
 🚀 **Software Engineer @TutorsPlan, USA | 🦀 Rust / NodeJs | Microservice - Docker - kubernetes ||-⚙️ Engineering Software Solutions ⚡ ETech Creator**  
 
-I’m a self-motivated software engineer who thinks like an architect — designing and developing scalable digital products with clean, modular architectures. Passionate about **Rust, distributed systems, and performance optimization**, I continuously explore new technologies to sharpen my craft.  
+I’m a Software Engineer with 4.5+ years of experience building scalable, high-performance systems and secure APIs. I work with Rust, Go, Node.js/NestJs, TypeScript/JavaScript, ReactJs/NextJs and databases like PostgreSQL, MongoDB, and Redis.
 
+I specialize in clean architecture, concurrency, async programming, and system optimization, delivering reliable and fast backend solutions. I also have experience with Docker, Kubernetes, and REST/gRPC APIs.
+
+I’m passionate about creating maintainable, secure, and efficient software and connecting with other engineers building next-gen backend systems.
+
+🔧 Skills: Rust, Go, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, REST APIs and more
+
+🎯 Goal: Become a high-demand Backend Engineer & Site Reliability Engineer.
+
+I am open to new opportunities and am willing to conduct/undertake required training. Contact me at morshedulmunna1@gmail.com to discuss further.
 I approach every project with a **critical and creative mindset** — analyzing problems deeply and delivering **efficient, secure, and high-performance solutions**.  
 
 ---
 
-
-### 🔭 Current Overview  
-
-**💡 Fun Fact:** I love **problem-solving** & sometimes jump into contests just for the thrill.  
-
-**🥅 Goals for 2025:**  
-- Master **Microservices Architecture** (Rust + Golang)  
-- Build with **gRPC, GraphQL, Redis, NATS, RabbitMQ, Kafka**  
-- Deploy scalable systems using **Docker, Kubernetes, and AWS**  
-- Dive deeper into **Core Networking, OS & Database**  
-
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" />  
-
----
-
-### 🤝 Collaboration  
-
-- Open to collaborating on **open-source Rust/Golang projects**.  
-- Excited about **backend frameworks, distributed systems, and performance-critical APIs**.  
 
 ---
 
 ### 🛠️ Tech Stack  
 
 - **Languages:** Rust 🦀, Golang, JavaScript (Node.js), TypeScript, Bash  
-- **Frameworks & Runtimes:** Actix-Web, Axum, Tokio, SQLx, ExpressJS, NestJS  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Typesense  
-- **Messaging & Streaming:** gRPC, RabbitMQ, Kafka.  
-- **Architecture:** Microservices, Event-driven systems, DDD  
-- **DevOps & Tools:** Docker, GitHub Actions, Prometheus, Grafana, Loki, Swagger/OpenAPI 3.0  
+- **Frameworks & Runtimes:** Actix-Web, Axum, Tokio, NestJS, ExpressJS, SQLx, Diesel, TypeORM, Prisma  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Dgraph, Redis, Elasticsearch, Typesense  
+- **Messaging & Streaming:** gRPC, RabbitMQ, Kafka  
+- **Architecture & Cloud:** Microservices, Event-driven systems, DDD, Dependency Injection, Modular Services, Interceptors, Guards, AWS (EC2, S3, SES)  
+- **Containerization & Orchestration:** Docker, Kubernetes, Helm Charts  
+- **Monitoring & Observability:** Prometheus, Grafana, Loki, OpenTelemetry  
+- **CI/CD & Infrastructure:** GitHub Actions, Terraform  
+- **Documentation & Testing:** Swagger/OpenAPI 3.0, Unit & Integration Testing, Advanced Logging  
+
 
 ---
 ### Reach Me Out
