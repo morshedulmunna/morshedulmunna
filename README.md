@@ -12,8 +12,6 @@ I specialize in clean architecture, concurrency, async programming, and system o
 
 I’m passionate about creating maintainable, secure, and efficient software and connecting with other engineers building next-gen backend systems.
 
-🔧 Skills: Rust, Go, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, REST APIs and more
-
 🎯 Goal: Become a high-demand Backend Engineer & Site Reliability Engineer.
 
 I am open to new opportunities and am willing to conduct/undertake required training. Contact me at morshedulmunna1@gmail.com to discuss further.
