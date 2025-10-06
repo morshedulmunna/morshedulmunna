@@ -4,9 +4,9 @@
 ---
 # 👋 Hi, I’m Morshedul Islam Munna  
 
-🚀 **Software Engineer @TutorsPlan, USA | 🦀 Rust / NodeJs | Microservice - Docker - kubernetes ||-⚙️ Engineering Software Solutions ⚡ ETech Creator**  
+🚀 **Software Engineer @AnytimeStaff, australia (remote) | 🦀 Rust / NodeJs | Microservice - Docker - kubernetes ||-⚙️ Engineering Software Solutions ⚡ ETech Creator**  
 
-I’m a Software Engineer with 4.5+ years of experience building scalable, high-performance systems and secure APIs. I work with Rust, Go, Node.js/NestJs, TypeScript/JavaScript, ReactJs/NextJs and databases like PostgreSQL, MongoDB, and Redis.
+I’m a Software Engineer with 4.5+ years of experience building scalable, high-performance systems and secure APIs. I work with Rust, Node.js/NestJs, TypeScript/JavaScript, ReactJs/NextJs and databases like PostgreSQL, MongoDB, and Redis.
 
 I specialize in clean architecture, concurrency, async programming, and system optimization, delivering reliable and fast backend solutions. I also have experience with Docker, Kubernetes, and REST/gRPC APIs.
 
@@ -25,7 +25,7 @@ I approach every project with a **critical and creative mindset** — analyzing 
 
 ### 🛠️ Tech Stack  
 
-- **Languages:** Rust 🦀, Golang, JavaScript (Node.js), TypeScript, Bash  
+- **Languages:** Rust 🦀, JavaScript (Node.js), TypeScript, Bash  
 - **Frameworks & Runtimes:** Actix-Web, Axum, Tokio, NestJS, ExpressJS, SQLx, Diesel, TypeORM, Prisma  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Dgraph, Redis, Elasticsearch, Typesense  
 - **Messaging & Streaming:** gRPC, RabbitMQ, Kafka  
