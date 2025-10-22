@@ -55,7 +55,7 @@ I approach every project with a **critical and creative mindset** — analyzing 
 <div align="center" >
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morshedulmunna&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morshedulmunna&theme=github_dark" width="32.5%">
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morshedulmunna&theme=github_dark&utcOffset=8" width="32.5%">
  
 </div>
