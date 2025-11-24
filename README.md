@@ -4,15 +4,15 @@
 ---
 # 👋 Hi, I’m Morshedul Islam Munna  
 
-🚀 **Software Engineer @AnytimeStaff, australia (remote) | 🦀 Rust / NodeJs | Microservice - Docker - kubernetes ||-⚙️ Engineering Software Solutions ⚡ ETech Creator**  
+🚀 **Software Engineer | 🦀 Rust / NodeJs | Microservice - Docker - kubernetes ||-⚙️ Engineering Software Solutions ⚡ ETech Creator**  
 
-I’m a Software Engineer with 4.5+ years of experience building scalable, high-performance systems and secure APIs. I work with Rust, Node.js/NestJs, TypeScript/JavaScript, ReactJs/NextJs and databases like PostgreSQL, MongoDB, and Redis.
+I’m a Software Engineer with 4.5+ years of experience building scalable, high-performance systems and secure APIs. I work with Rust, Node.js/NestJs, TypeScript/JavaScript, ReactJs/NextJs and databases like PostgreSQL, MongoDB, and Redis more.......
 
-I specialize in clean architecture, concurrency, async programming, and system optimization, delivering reliable and fast backend solutions. I also have experience with Docker, Kubernetes, and REST/gRPC APIs.
+I specialize in clean architecture(DDD), concurrency, async programming, and system optimization, delivering reliable and fast backend solutions. I also have experience with Docker, Kubernetes, and REST/gRPC APIs.
 
 I’m passionate about creating maintainable, secure, and efficient software and connecting with other engineers building next-gen backend systems.
 
-🎯 Goal: Become a high-demand Backend Engineer & Site Reliability Engineer.
+🎯 Goal: To become a sought-after Backend Engineer and Site Reliability Engineer, while actively contributing to Open Source projects.
 
 I am open to new opportunities and am willing to conduct/undertake required training. Contact me at morshedulmunna1@gmail.com to discuss further.
 I approach every project with a **critical and creative mindset** — analyzing problems deeply and delivering **efficient, secure, and high-performance solutions**.  
@@ -21,6 +21,19 @@ I approach every project with a **critical and creative mindset** — analyzing 
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" />  
 
+---
+
+#### 🌀 Projects
+
+| **Rust**  **Bash**, **Golang**, **JavaScript**, **Python**,   |                                                                                                                      
+| • [Jpeek](https://crates.io/crates/jpeek) - 🔓 JWT Decoder – Command-line tool to decode JSON Web Tokens <br>
+| • [Minicache](https://crates.io/crates/minicache) - A fast, lightweight, async-compatible in-memory cache for Rust with TTL (Time-To-Live) support and automatic cleanup. <br>
+
+#### 🛠️ What am I working on?
+
+| **Category**      | **Description**                                                                  
+| ----------------- | -----------------------------------------------------
+| **[Rafka](https://github.com/Mahir101/Rafka)**     | Rafka is a blazing-fast, experimental distributed asynchronous message broker inspired by Apache Kafka.
 ---
 
 ### 🛠️ Tech Stack  
