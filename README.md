@@ -25,7 +25,7 @@ I approach every project with a **critical and creative mindset** — analyzing 
 
 #### 🌀 Projects
 
-| **Rust**  **Bash**, **Golang**, **JavaScript**, **Python**,   |                                                                                                                      
+| **Rust**,  **Bash**, **Golang**, **JavaScript**, **Python**,   |                                                                                                                      
 | • [Jpeek](https://crates.io/crates/jpeek) - 🔓 JWT Decoder – Command-line tool to decode JSON Web Tokens <br>
 | • [Minicache](https://crates.io/crates/minicache) - A fast, lightweight, async-compatible in-memory cache for Rust with TTL (Time-To-Live) support and automatic cleanup. <br>
 
