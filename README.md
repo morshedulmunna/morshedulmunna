@@ -23,19 +23,12 @@ I approach every project with a **critical and creative mindset** — analyzing 
 
 ---
 
-#### 🌀 Projects
+#### 🌀 Projects (open source)
 
 | **Rust**,  **Bash**, **Golang**, **JavaScript**, **Python**,   |                                                                                                                      
 | • [Jpeek](https://crates.io/crates/jpeek) - 🔓 JWT Decoder – Command-line tool to decode JSON Web Tokens <br>
 | • [Minicache](https://crates.io/crates/minicache) - A fast, lightweight, async-compatible in-memory cache for Rust with TTL (Time-To-Live) support and automatic cleanup. <br>
 |   [Passgen](https://github.com/morshedulmunna/passgen) - 🔐 Secure Password Generation |  fast and secure Rust-based CLI tool for generating customizable passwords.
-
-#### 🛠️ What am I working on?
-
-| **Category**      | **Description**                                                                  
-| ----------------- | -----------------------------------------------------
-| **[Rafka](https://github.com/Mahir101/Rafka)**     | Rafka is a blazing-fast, experimental distributed asynchronous message broker inspired by Apache Kafka.
----
 
 ### 🛠️ Tech Stack  
 
