@@ -1,47 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&random=false&width=850&lines=Morshedul+Islam+Munna;Software+Engineer;%F0%9F%92%A4+Fun+fact+%F0%9F%92%A4+Problem+Solver)](https://git.io/typing-svg)
-<img src="/cover.png"/></a>
-
----
-# 👋 Hi, I’m Morshedul Islam Munna  
-
-🚀 **Software Engineer | 🦀 Rust / NodeJs | Microservice - Docker - kubernetes ||-⚙️ Engineering Software Solutions ⚡ ETech Creator**  
-
-I’m a Software Engineer with 4.5+ years of experience building scalable, high-performance systems and secure APIs. I work with Rust, Node.js/NestJs, TypeScript/JavaScript, ReactJs/NextJs and databases like PostgreSQL, MongoDB, and Redis more.......
-
-I specialize in clean architecture(DDD), concurrency, async programming, and system optimization, delivering reliable and fast backend solutions. I also have experience with Docker, Kubernetes, and REST/gRPC APIs.
-
-I’m passionate about creating maintainable, secure, and efficient software and connecting with other engineers building next-gen backend systems.
-
-🎯 Goal: To become a sought-after Backend Engineer and Site Reliability Engineer, while actively contributing to Open Source projects.
-
-I am open to new opportunities and am willing to conduct/undertake required training. Contact me at morshedulmunna1@gmail.com to discuss further.
-I approach every project with a **critical and creative mindset** — analyzing problems deeply and delivering **efficient, secure, and high-performance solutions**.  
-
----
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" />  
 
 ---
-
 #### 🌀 Projects (open source)
 
-| **Rust**,  **Bash**, **Golang**, **JavaScript**, **Python**,   |                                                                                                                      
 | • [Jpeek](https://crates.io/crates/jpeek) - 🔓 JWT Decoder – Command-line tool to decode JSON Web Tokens <br>
 | • [Minicache](https://crates.io/crates/minicache) - A fast, lightweight, async-compatible in-memory cache for Rust with TTL (Time-To-Live) support and automatic cleanup. <br>
 | • [Passgen](https://github.com/morshedulmunna/passgen) - 🔐 Secure Password Generation |  fast and secure Rust-based CLI tool for generating customizable passwords.
-
-### 🛠️ Tech Stack  
-
-- **Languages:** Rust 🦀, JavaScript (Node.js), TypeScript, Bash  
-- **Frameworks & Runtimes:** Actix-Web, Axum, Tokio, NestJS, ExpressJS, SQLx, Diesel, TypeORM, Prisma  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Dgraph, Redis, Elasticsearch, Typesense  
-- **Messaging & Streaming:** gRPC, RabbitMQ, Kafka  
-- **Architecture & Cloud:** Microservices, Event-driven systems, DDD, Dependency Injection, Modular Services, Interceptors, Guards, AWS (EC2, S3, SES)  
-- **Containerization & Orchestration:** Docker, Kubernetes, Helm Charts  
-- **Monitoring & Observability:** Prometheus, Grafana, Loki, OpenTelemetry  
-- **CI/CD & Infrastructure:** GitHub Actions, Terraform  
-- **Documentation & Testing:** Swagger/OpenAPI 3.0, Unit & Integration Testing, Advanced Logging  
-
 
 ---
 ### Reach Me Out
