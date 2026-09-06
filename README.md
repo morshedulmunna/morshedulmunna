@@ -9,6 +9,8 @@
 | • [Minicache](https://crates.io/crates/minicache) - A fast, lightweight, async-compatible in-memory cache for Rust with TTL (Time-To-Live) support and automatic cleanup. <br>
 | • [Passgen](https://github.com/morshedulmunna/passgen) - 🔐 Secure Password Generation |  fast and secure Rust-based CLI tool for generating customizable passwords.
 
+| • [Ironic](https://github.com/ironic-org/ironic) - modular Rust application framework. Batteries-included: DI, controllers, middleware, guards, pipes, WebSocket gateways, scheduling, caching, and OpenAPI.
+
 ---
 ### Reach Me Out
 
