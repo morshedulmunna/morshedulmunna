@@ -2,6 +2,16 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" />  
 
+Morshedul Islam Munna
+Senior Software Engineer | Rust · Go · Node.js
+
+Building high-performance backend systems, distributed architectures, developer tools, and AI infrastructure.
+
+Rust • Axum • Tokio • NestJS • Golang • PostgreSQL • Redis • NATS • Kafka • AI Infrastructure
+Backend Engineering
+Distributed Systems
+Open Source
+
 ---
 #### 🌀 Projects (open source)
 
